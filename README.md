@@ -4,9 +4,9 @@ Automatically collection the data from the telegram and export in real time
 
 Installation 
 -------------
-Creating Developer Environment 
-1.Installation Python 
-2.pip install telethon 
+Creating Developer Environment <br>
+1.Installation Python <br>
+2.pip install telethon <br>
 3.Execute File 
 
 Configuration for Code 
