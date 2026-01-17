@@ -2,6 +2,8 @@
 
 Automatically collection the data from the telegram and export in real time 
 
+![Process_of_program](./Flowchart.png)
+
 Installation 
 -------------
 Creating Developer Environment <br>
